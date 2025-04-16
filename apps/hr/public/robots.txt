@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://evgart-hr.ru
+
+# Sitemaps
+Sitemap: https://evgart-hr.ru/sitemap.xml

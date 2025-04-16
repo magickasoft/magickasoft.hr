@@ -1,0 +1,23 @@
+export const backend = {
+  label: 'Backend',
+  list: [
+    'Java SE 8/11/18',
+    'Spring',
+    'Spring Boot',
+    'Hibernate',
+    'C#: NET',
+    'NET Core',
+    'ASP.NET Core',
+    'PHP',
+    'Ruby',
+    'Node JS',
+    'Python',
+    'Go',
+    'Dart',
+    'Redis',
+    'MongoDB',
+    'Kafka',
+    'RabbitMQ',
+    'ActiveMQ',
+  ],
+};
