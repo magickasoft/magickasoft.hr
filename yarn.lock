@@ -620,10 +620,10 @@
   dependencies:
     call-bind "^1.0.7"
 
-"@next/bundle-analyzer@14.2.3":
-  version "14.2.3"
-  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-14.2.3.tgz#dfa43586983d3fffdeb5f3c50f2c65ab1c51f184"
-  integrity sha512-Z88hbbngMs7njZKI8kTJIlpdLKYfMSLwnsqYe54AP4aLmgL70/Ynx/J201DQ+q2Lr6FxFw1uCeLGImDrHOl2ZA==
+"@next/bundle-analyzer@15.3.0":
+  version "15.3.0"
+  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-15.3.0.tgz#b4769a490b420d3d281c512ea80d7e471bf6b7d1"
+  integrity sha512-t1dn32bTBJTfksh2xLfpaw6hNNNrw1rsr1GlVSkRbJ5626YgEMFBjuos5tHr6l9/b+jKz1HFYFlWNgrIHqCslw==
   dependencies:
     webpack-bundle-analyzer "4.10.1"
 
