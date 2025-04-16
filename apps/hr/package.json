@@ -14,7 +14,7 @@
     "sitemap": "./node_modules/.bin/cross-env SITE_URL=https://hr.ru ./node_modules/.bin/next-sitemap"
   },
   "dependencies": {
-    "@emotion/cache": "11.11.0",
+    "@emotion/cache": "11.14.0",
     "@emotion/react": "11.14.0",
     "@emotion/server": "11.11.0",
     "@emotion/styled": "11.14.0",
