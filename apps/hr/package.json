@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@babel/core": "7.26.0",
-    "@types/color": "3.0.6",
+    "@types/color": "4.2.0",
     "@types/node": "22.9.3",
     "@types/react": "18.3.3",
     "@types/react-dom": "18.3.0",
